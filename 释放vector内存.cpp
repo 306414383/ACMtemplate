@@ -1,0 +1,1 @@
+vector< INT >().swap( T );
