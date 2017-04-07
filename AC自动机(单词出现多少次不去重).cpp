@@ -1,3 +1,25 @@
+/*
+Input
+1
+5 6
+orz
+sto
+kirigiri
+danganronpa
+ooooo
+o
+kyouko
+dangan
+ronpa
+ooooo
+ooooo
+Output
+1
+1
+0
+3
+7
+*/
 #include<bits/stdc++.h>
 char sub[10010],str[100010][10010];
 int cnt[100010];
