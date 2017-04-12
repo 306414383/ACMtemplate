@@ -1,3 +1,5 @@
+#include<fstream>
+//#include<iostream>
 const int SIZE=500050;///∂¡»Î≥§∂»
 
 char buffer[SIZE];
